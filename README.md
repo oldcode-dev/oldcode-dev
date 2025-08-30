@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ernest Frimpong Opoku
 
-<!--
-**oldcode-dev/oldcode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior developer with a background in IT support and a growing passion for full-stack web development. I love building responsive web apps, solving real-world problems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, React JS
+- **Backend:** Node.js (CRUD APIs, routing), Firebase (deployment), SQL (basic queries)
+- **Tools:** Git & GitHub, Jest (testing), VS Code
+- **Other:** Agile collaboration, remote work proficiency, time management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Airbnb Clone (In Progress):** Full-stack web app with React, Node.js, Firebase  
+- **Portfolio Website (In Progress):** Personal site showcasing my work and skills  
+- More coming soon...
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/ernest-frimpong-opoku-3444b3206)
+- Email: ernestfrimpongopoku.992@outlook.com
