@@ -13,6 +13,11 @@ I'm a junior developer with a background in IT support and a growing passion for
 - **Portfolio Website (In Progress):** Personal site showcasing my work and skills  
 - More coming soon...
 
+## 🏆 My Achievements
+- **ALX Professional Foundations Certificate**
+- **Google IT Support Specialist Certificate**
+  
+
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/ernest-frimpong-opoku-3444b3206)
 - Email: ernestfrimpongopoku.992@outlook.com
