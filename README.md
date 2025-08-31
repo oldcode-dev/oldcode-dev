@@ -1,23 +1,112 @@
-# 👋 Hi, I'm Ernest Frimpong Opoku
+<h1 align="center">Hi there 👋, I'm Ernest Frimpong Opoku</h1>
 
-I'm a junior developer with a background in IT support and a growing passion for full-stack web development. I love building responsive web apps, solving real-world problems, and continuously learning new technologies.
+<p align="center">
+  <em>Frontend Developer | IT Support Specialist | Tech Advocate</em><br>
+  <strong>Passionate about building scalable applications that empower others — especially women — to thrive in tech.</strong>
+</p>
 
-## 💻 Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, React JS
-- **Backend:** Node.js (CRUD APIs, routing), Firebase (deployment), SQL (basic queries)
-- **Tools:** Git & GitHub, Jest (testing), VS Code
-- **Other:** Agile collaboration, remote work proficiency, time management
+---
 
-## 🚀 Projects
-- **Airbnb Clone (In Progress):** Full-stack web app with React, Node.js, Firebase  
-- **Portfolio Website (In Progress):** Personal site showcasing my work and skills  
-- More coming soon...
+## 🌟 About Me
 
-## 🏆 My Achievements
-- **ALX Professional Foundations Certificate**
-- **Google IT Support Specialist Certificate**
-  
+<ul>
+  <li>🎓 BSc Computer Science, University of Energy and Natural Resources</li>
+  <li>📚 ALX ProDev Frontend Learner | Google IT Support Certified</li>
+  <li>💻 Transitioning from IT Support to Fullstack Development</li>
+  <li>🌍 Based in Ghana, open to relocating for impactful tech roles</li>
+  <li>🎯 Mission: Design maintainable, scalable applications that uplift communities</li>
+</ul>
+
+---
+
+## 💼 What I'm Working On
+
+<ul>
+  <li>🏠 <strong>Airbnb Clone</strong> — Fullstack project using React, Node.js, Firebase</li>
+  <li>🌐 <strong>Portfolio Website</strong> — Built with HTML, Tailwind CSS, and JavaScript</li>
+  <li>📈 <strong>GitHub & LinkedIn Optimization</strong> — Showcasing skills for recruiters</li>
+</ul>
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS, Bootstrap</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express.js, Firebase</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>SQL (basic queries)</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git, Jest, VS Code, Postman</td>
+  </tr>
+  <tr>
+    <td><strong>Other</strong></td>
+    <td>IT Support, Remote Collaboration, Agile Practices</td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Ernest's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/ernest-frimpong-opoku-3444b3206)
-- Email: ernestfrimpongopoku.992@outlook.com
+
+<ul>
+  <li>🌐 <a href="https://your-portfolio-link.com">Portfolio Website</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a></li>
+  <li>📧 Email: your.email@example.com</li>
+</ul>
+
+---
+
+## ✨ Fun Fact
+
+<p>I believe tech should be inclusive — and I’m building projects that reflect that vision.</p>
+
+---
+
+## 🧠 Quote That Drives Me
+
+> “The best way to predict the future is to invent it.” — Alan Kay
+
+---
+
+## 📌 Pinned Projects
+
+<ul>
+  <li><a href="https://github.com/your-username/airbnb-clone">🏠 Airbnb Clone</a> — Fullstack implementation with React, Node.js, Firebase</li>
+  <li><a href="https://github.com/your-username/portfolio-site">🌐 Portfolio Website</a> — Clean, responsive design showcasing my journey</li>
+</ul>
+
+---
+
+## 🗺️ Goals
+
+<ul>
+  <li>✅ Complete and deploy Airbnb clone</li>
+  <li>✅ Build a strong online presence</li>
+  <li>🎯 Secure a junior developer role at a mission-driven tech company</li>
+</ul>
+
+---
+
+## 🧩 How You Can Help
+
+If you're a recruiter, mentor, or fellow developer — I’d love to connect, collaborate, and grow together. Let’s build tech that matters.
