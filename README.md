@@ -56,22 +56,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Ernest's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <ul>
   <li>🌐 <a href="https://your-portfolio-link.com">Portfolio Website</a></li>
-  <li>💼 <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a></li>
-  <li>📧 Email: your.email@example.com</li>
+  <li>💼 <a href="https://www.linkedin.com/in/ernest-frimpong-opoku-3444b3206">LinkedIn</a></li>
+  <li>📧 Email: ernestfrimpongopoku.992@outlook.com</li>
 </ul>
 
 ---
@@ -91,8 +81,8 @@
 ## 📌 Pinned Projects
 
 <ul>
-  <li><a href="https://github.com/your-username/airbnb-clone">🏠 Airbnb Clone</a> — Fullstack implementation with React, Node.js, Firebase</li>
-  <li><a href="https://github.com/your-username/portfolio-site">🌐 Portfolio Website</a> — Clean, responsive design showcasing my journey</li>
+  <li><a href="https://github.com/oldcode-dev/airbnb-clone">🏠 Airbnb Clone</a> — Fullstack implementation with React, Node.js, Firebase</li>
+  <li><a href="https://ernie4216-featuresection.web.app/">🌐 Portfolio Website</a> — Clean, responsive design showcasing my journey</li>
 </ul>
 
 ---
